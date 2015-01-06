@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+- sets up meta data to track files
+- need to provide the structure for GIT to be able to manage files
