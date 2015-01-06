@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 - sets up meta data to track files
 - need to provide the structure for GIT to be able to manage files
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+- staging area holds files to be put in repository
+- working directory is the current directory
+- allows to commit multiple files
+- allows capability to change you mind?
