@@ -17,3 +17,8 @@ have permission to make changes
 - use branches to make experimental changes off a known stable point
 - use branches to make changes for maintenance off a known stable point, while
 simultaniously working on development for new features with the intent of mergin the two later
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+- so that you can always compare locally to the latest changes someone else has made vs. comparing to a copy that is older and running into a surprise trying
+to merge with the latest remote changes later
+risk that the copy you are comparing to is 
