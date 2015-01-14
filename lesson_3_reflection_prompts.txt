@@ -28,3 +28,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 type system
 - harder because not all the materials are packaged together to easily visualize
 and understand changes people wanted to make
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+- if you wanted to propose possible changes that will be merged in later and use the separate branch to collaborate with others
