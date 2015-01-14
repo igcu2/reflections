@@ -22,3 +22,9 @@ What is the benefit of having a copy of the last known state of the remote store
 - so that you can always compare locally to the latest changes someone else has made vs. comparing to a copy that is older and running into a surprise trying
 to merge with the latest remote changes later
 risk that the copy you are comparing to is 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+- probably e-mail, phone call, instant messenger or another source code control
+type system
+- harder because not all the materials are packaged together to easily visualize
+and understand changes people wanted to make
